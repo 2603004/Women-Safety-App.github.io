@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Tkinter-Designer-master/build/assets/frame0"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "xprotocol",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 33060,
+				"driver": "MySQL",
+				"name": "mysql_pyt",
+				"database": "loginpage",
+				"username": "root",
+				"password": "abhay@260304",
+				"connectionTimeout": 30
+			}
+		]
+	}
+}
